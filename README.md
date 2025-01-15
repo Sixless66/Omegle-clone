@@ -17,18 +17,4 @@
 
 ---
 
-## 📌 Set up project
-- clone the repo and go into it
-```bash
-git clone https://github.com/amitanshusahu/Omegle-fullstack/ & cd Omegle-fullstack/
-```
-- go to the client folder and start dev server
-```bash
-cd client && npm run dev
-```
-- go to the server folder and start server
-```bash
-cd ../server && npm start
-```
-
 
